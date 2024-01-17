@@ -16,7 +16,7 @@ Follow these steps to run the calculator program:
 ### Running the Program
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/calculator-java.git
+   git clone https://github.com/Muzamil-Gashroo/calculator-java.git
    ```
 
 2. Navigate to the project directory.
@@ -42,11 +42,6 @@ Follow these steps to run the calculator program:
 - Press the `=` button to calculate the result.
 - Use the `CLR` button to clear the input field.
 
-## Contributors
-- [Your Name] - Add your name if you contribute to the project.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
 
-## Acknowledgments
-- The project structure and code are inspired by Java AWT tutorials and examples.
