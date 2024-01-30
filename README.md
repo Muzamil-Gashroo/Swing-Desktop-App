@@ -41,7 +41,7 @@ Follow these steps to run the calculator program:
 - The calculator supports the digits 0-9.
 - Use the `+`, `-`, `*`, and `/` buttons for addition, subtraction, multiplication, and division, respectively.
 - Press the `=` button to calculate the result.
-- Use the `CLR` button to clear the input field.
+- Use the `CLR` button to clear the input field..
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
