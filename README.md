@@ -3,7 +3,7 @@
 
 ## Overview
 This repository contains a simple calculator program implemented in Java. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The graphical user interface (GUI) is built using Java AWT and handles user input through buttons.
-- **Java**: The programming language used to develop the calculator.
+- **Java**: The programming language used to develop the calculator..
 - **AWT (Abstract Window Toolkit)**: The Java package used for creating the graphical user interface.
 
 ![Calculator-Image](GUI.png)
