@@ -9,7 +9,7 @@ This repository contains a simple calculator program implemented in Java. The ca
 ![Calculator-Image](GUI.png)
 
 
-## How to Run the Calculator
+## How to Run the Calculator.
 Follow these steps to run the calculator program:
 
 ### Prerequisites
