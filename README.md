@@ -12,7 +12,7 @@ This repository contains a simple calculator program implemented in Java. The ca
 ## How to Run the Calculator.
 Follow these steps to run the calculator program:
 
-### Prerequisites
+### Prerequisites.
 - Make sure you have Java installed on your system.
 
 ### Running the Program
