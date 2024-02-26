@@ -1,4 +1,4 @@
-# Calculator Java Program By Muzamil
+# Calculator Java
 <a href="musaibgashru.co">::  musaibgashru.co </a>
 
 ## Overview
